@@ -1,6 +1,6 @@
-# ganesh
+# Flutter Image Picker and Face Detection
 
-A new Flutter project.
+Detect the face from an image using python
 
 ## Getting Started
 
